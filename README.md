@@ -1,4 +1,6 @@
 # Practice
+
+
 public Move move() {
         // if direction is not yet set, choose a random one
         if (direction == null) {
